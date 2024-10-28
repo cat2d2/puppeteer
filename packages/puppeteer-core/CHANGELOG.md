@@ -20,6 +20,13 @@ All notable changes to this project will be documented in this file. See [standa
   * dependencies
     * @puppeteer/browsers bumped from 1.5.1 to 1.6.0
 
+## [23.7.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v23.6.1...puppeteer-core-v23.7.0) (2024-10-28)
+
+
+### Features
+
+* distinguish different Touches ([#13231](https://github.com/puppeteer/puppeteer/issues/13231)) ([a2a205c](https://github.com/puppeteer/puppeteer/commit/a2a205c2e8ffbc5b9c73bee0466ac0bf00fb4657))
+
 ## [23.6.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v23.6.0...puppeteer-core-v23.6.1) (2024-10-28)
 
 
