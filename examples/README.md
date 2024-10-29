@@ -22,3 +22,8 @@ After both commands have succeeded, run an individual example like so:
 ```bash
 NODE_PATH=../ node examples/search.js
 ```
+
+Alternitavely, you can run it in developer mode if you want to edit and test for yourself:
+```bash
+npm run dev
+```
